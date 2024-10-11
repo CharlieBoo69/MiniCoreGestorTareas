@@ -1,0 +1,216 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\source\\repos\\GestorDeTareas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{070D193C-A462-4CA3-83F5-16ECA7A2DCC7}|GestorDeTareas\\GestorDeTareas.csproj|c:\\users\\asus\\source\\repos\\gestordetareas\\gestordetareas\\models\\tarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{070D193C-A462-4CA3-83F5-16ECA7A2DCC7}|GestorDeTareas\\GestorDeTareas.csproj|solutionrelative:gestordetareas\\models\\tarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{070D193C-A462-4CA3-83F5-16ECA7A2DCC7}|GestorDeTareas\\GestorDeTareas.csproj|c:\\users\\asus\\source\\repos\\gestordetareas\\gestordetareas\\controllers\\tareascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{070D193C-A462-4CA3-83F5-16ECA7A2DCC7}|GestorDeTareas\\GestorDeTareas.csproj|solutionrelative:gestordetareas\\controllers\\tareascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{070D193C-A462-4CA3-83F5-16ECA7A2DCC7}|GestorDeTareas\\GestorDeTareas.csproj|c:\\users\\asus\\source\\repos\\gestordetareas\\gestordetareas\\data\\dataseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{070D193C-A462-4CA3-83F5-16ECA7A2DCC7}|GestorDeTareas\\GestorDeTareas.csproj|solutionrelative:gestordetareas\\data\\dataseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{070D193C-A462-4CA3-83F5-16ECA7A2DCC7}|GestorDeTareas\\GestorDeTareas.csproj|c:\\users\\asus\\source\\repos\\gestordetareas\\gestordetareas\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{070D193C-A462-4CA3-83F5-16ECA7A2DCC7}|GestorDeTareas\\GestorDeTareas.csproj|solutionrelative:gestordetareas\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{070D193C-A462-4CA3-83F5-16ECA7A2DCC7}|GestorDeTareas\\GestorDeTareas.csproj|c:\\users\\asus\\source\\repos\\gestordetareas\\gestordetareas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{070D193C-A462-4CA3-83F5-16ECA7A2DCC7}|GestorDeTareas\\GestorDeTareas.csproj|solutionrelative:gestordetareas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{070D193C-A462-4CA3-83F5-16ECA7A2DCC7}|GestorDeTareas\\GestorDeTareas.csproj|c:\\users\\asus\\source\\repos\\gestordetareas\\gestordetareas\\views\\tareas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{070D193C-A462-4CA3-83F5-16ECA7A2DCC7}|GestorDeTareas\\GestorDeTareas.csproj|solutionrelative:gestordetareas\\views\\tareas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{070D193C-A462-4CA3-83F5-16ECA7A2DCC7}|GestorDeTareas\\GestorDeTareas.csproj|c:\\users\\asus\\source\\repos\\gestordetareas\\gestordetareas\\migrations\\20241011050533_initialcreate1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{070D193C-A462-4CA3-83F5-16ECA7A2DCC7}|GestorDeTareas\\GestorDeTareas.csproj|solutionrelative:gestordetareas\\migrations\\20241011050533_initialcreate1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{070D193C-A462-4CA3-83F5-16ECA7A2DCC7}|GestorDeTareas\\GestorDeTareas.csproj|c:\\users\\asus\\source\\repos\\gestordetareas\\gestordetareas\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{070D193C-A462-4CA3-83F5-16ECA7A2DCC7}|GestorDeTareas\\GestorDeTareas.csproj|solutionrelative:gestordetareas\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{070D193C-A462-4CA3-83F5-16ECA7A2DCC7}|GestorDeTareas\\GestorDeTareas.csproj|c:\\users\\asus\\source\\repos\\gestordetareas\\gestordetareas\\migrations\\20241009212624_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{070D193C-A462-4CA3-83F5-16ECA7A2DCC7}|GestorDeTareas\\GestorDeTareas.csproj|solutionrelative:gestordetareas\\migrations\\20241009212624_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{070D193C-A462-4CA3-83F5-16ECA7A2DCC7}|GestorDeTareas\\GestorDeTareas.csproj|c:\\users\\asus\\source\\repos\\gestordetareas\\gestordetareas\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{070D193C-A462-4CA3-83F5-16ECA7A2DCC7}|GestorDeTareas\\GestorDeTareas.csproj|solutionrelative:gestordetareas\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{070D193C-A462-4CA3-83F5-16ECA7A2DCC7}|GestorDeTareas\\GestorDeTareas.csproj|c:\\users\\asus\\source\\repos\\gestordetareas\\gestordetareas\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{070D193C-A462-4CA3-83F5-16ECA7A2DCC7}|GestorDeTareas\\GestorDeTareas.csproj|solutionrelative:gestordetareas\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\GestorDeTareas\\GestorDeTareas\\Program.cs",
+              "RelativeDocumentMoniker": "GestorDeTareas\\Program.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\GestorDeTareas\\GestorDeTareas\\Program.cs",
+              "RelativeToolTip": "GestorDeTareas\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABwAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T21:20:36.521Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20241011050533_InitialCreate1.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\GestorDeTareas\\GestorDeTareas\\Migrations\\20241011050533_InitialCreate1.cs",
+              "RelativeDocumentMoniker": "GestorDeTareas\\Migrations\\20241011050533_InitialCreate1.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\GestorDeTareas\\GestorDeTareas\\Migrations\\20241011050533_InitialCreate1.cs",
+              "RelativeToolTip": "GestorDeTareas\\Migrations\\20241011050533_InitialCreate1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T05:05:33.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\GestorDeTareas\\GestorDeTareas\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "GestorDeTareas\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\GestorDeTareas\\GestorDeTareas\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "GestorDeTareas\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-11T03:20:04.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DataSeeder.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\GestorDeTareas\\GestorDeTareas\\Data\\DataSeeder.cs",
+              "RelativeDocumentMoniker": "GestorDeTareas\\Data\\DataSeeder.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\GestorDeTareas\\GestorDeTareas\\Data\\DataSeeder.cs",
+              "RelativeToolTip": "GestorDeTareas\\Data\\DataSeeder.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T21:52:27.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\GestorDeTareas\\GestorDeTareas\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "GestorDeTareas\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\GestorDeTareas\\GestorDeTareas\\Properties\\launchSettings.json",
+              "RelativeToolTip": "GestorDeTareas\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-09T21:44:56.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\GestorDeTareas\\GestorDeTareas\\Views\\Tareas\\Index.cshtml",
+              "RelativeDocumentMoniker": "GestorDeTareas\\Views\\Tareas\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\GestorDeTareas\\GestorDeTareas\\Views\\Tareas\\Index.cshtml",
+              "RelativeToolTip": "GestorDeTareas\\Views\\Tareas\\Index.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAABgAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-09T21:38:56.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TareasController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\GestorDeTareas\\GestorDeTareas\\Controllers\\TareasController.cs",
+              "RelativeDocumentMoniker": "GestorDeTareas\\Controllers\\TareasController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\GestorDeTareas\\GestorDeTareas\\Controllers\\TareasController.cs",
+              "RelativeToolTip": "GestorDeTareas\\Controllers\\TareasController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwB4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T21:29:39.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20241009212624_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\GestorDeTareas\\GestorDeTareas\\Migrations\\20241009212624_InitialCreate.cs",
+              "RelativeDocumentMoniker": "GestorDeTareas\\Migrations\\20241009212624_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\GestorDeTareas\\GestorDeTareas\\Migrations\\20241009212624_InitialCreate.cs",
+              "RelativeToolTip": "GestorDeTareas\\Migrations\\20241009212624_InitialCreate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T21:26:24.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\GestorDeTareas\\GestorDeTareas\\appsettings.json",
+              "RelativeDocumentMoniker": "GestorDeTareas\\appsettings.json",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\GestorDeTareas\\GestorDeTareas\\appsettings.json",
+              "RelativeToolTip": "GestorDeTareas\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-09T21:19:26.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\GestorDeTareas\\GestorDeTareas\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "GestorDeTareas\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\GestorDeTareas\\GestorDeTareas\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "GestorDeTareas\\Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T21:18:10.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Tarea.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\GestorDeTareas\\GestorDeTareas\\Models\\Tarea.cs",
+              "RelativeDocumentMoniker": "GestorDeTareas\\Models\\Tarea.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\GestorDeTareas\\GestorDeTareas\\Models\\Tarea.cs",
+              "RelativeToolTip": "GestorDeTareas\\Models\\Tarea.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAA4wAYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T21:17:03.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
